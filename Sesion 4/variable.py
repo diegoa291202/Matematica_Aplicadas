@@ -1,4 +1,4 @@
-# variable numericas
+# variable numericas tipo entero
 variable1 = 50
 # variable decimales
 variable2 = 20.2
